@@ -1,6 +1,6 @@
 # bcrypt_de
 
-> 对bcrypt进行密码爆码
+> 对bcrypt进行密码爆破
 
 ## 编译
 ```
